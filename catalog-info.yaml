@@ -1,0 +1,9 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: myreactapp
+  description: this is my desc
+spec:
+  type: website
+  lifecycle: experimental
+  owner: Bilouz
